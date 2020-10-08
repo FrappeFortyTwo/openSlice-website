@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://openslice.dev/"
 languageCode = "en-us"
 title = "Open Slice"
 theme = "book"
