@@ -3,6 +3,8 @@ title: Introduction
 type: docs
 ---
 
+## Something has changed !
+
 {{< columns >}}
 ![Ding](/images/logo.gif)
 <--->
